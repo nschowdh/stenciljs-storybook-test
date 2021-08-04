@@ -1,0 +1,23 @@
+:host {
+  display: block;
+}
+.general-button{
+  background-color: #c6edec;
+  border: 3px solid #054d88;
+  color: white;
+  padding: 1px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+}
+.general-button:hover {
+  background-color: #90ef90;
+  border: 3px solid #00FF00;
+}
+.general-button:active {
+  background-color: #febe66;
+  border: 3px solid red;
+}
+

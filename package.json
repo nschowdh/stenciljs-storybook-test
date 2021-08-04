@@ -1,5 +1,5 @@
 {
-  "name": "stencil-storybook",
+  "name": "user-story",
   "beawareofchange": "change aswell scripts:build:storybook --static-dir",
   "version": "1.0.0",
   "distDirs": {
